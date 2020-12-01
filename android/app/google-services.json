@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794409161849",
+    "firebase_url": "https://film-store-app.firebaseio.com",
+    "project_id": "film-store-app",
+    "storage_bucket": "film-store-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794409161849:android:6df54edf5d07cd1e93b0a8",
+        "android_client_info": {
+          "package_name": "com.nano.filmstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794409161849-11e5ue9ps8qrtplp5vggbrnp855ea9rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nano.filmstoreapp",
+            "certificate_hash": "313df6667e10f918ce6ef2eb7d39a7c105ffc61c"
+          }
+        },
+        {
+          "client_id": "794409161849-88fbgg7jmj824ch1bjoe1vnt9mju9uek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iNSoTeUoNPgLTlKkXOBnVhqmRUNGf0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794409161849-88fbgg7jmj824ch1bjoe1vnt9mju9uek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
